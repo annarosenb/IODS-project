@@ -1,4 +1,13 @@
 
-# About the project
+# First assignment
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+## Feelings  
+
+**I'm excited to attend this course**, I'm confident that it will be very useful for me now that I'm finalizing my PhD project and planning the postdoc period. I found out about the course via our mailing list at the University of Eastern Finland. I'm also a bit nervous since I haven't used R before and it seems somewhat difficult at the moment.  
+
+## Expectations  
+
+I'm expecting to learn about new more advanced data analysis methods, especially *linear mixed models and principal component analysis*. Model validation is also new for me.   
+
+[https://github.com/annarosenb/IODS-project]
+
